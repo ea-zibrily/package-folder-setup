@@ -6,7 +6,7 @@
   "unity": "2019.1",
   "unityRelease": "0b5",
   "dependencies": {
-    "com.tsukuyomi.tools": "https://github.com/ea-zibrily/package-folder-setup.git" 
+    "com.tsukuyomi.tools": "https://github.com/ea-zibrily/package-folder-setup.git?path=Editor" 
   },
   "author": {
     "name": "Zibrily",
