@@ -1,18 +1,13 @@
 {
   "name": "com.tsukuyomi.tools",
-  "version": "1.2.3",
+  "version": "1.0.0",
   "displayName": "Tsukuyomi Tools",
   "description": "Folder Setup Package for create \nautomatic default folder in early project setup",
   "unity": "2019.1",
   "unityRelease": "0b5",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
-  "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
-  ],
+  "dependencies": {
+    "com.tsukuyomi.tools": "https://github.com/ea-zibrily/package-folder-setup.git" 
+  },
   "author": {
     "name": "Zibrily",
     "email": "zibrilyuann@gmail.com",
